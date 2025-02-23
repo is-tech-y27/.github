@@ -2,7 +2,7 @@
 
 ## Information
 
-- [Таблица успеваемости/очередей]([https://docs.google.com/spreadsheets/d/1Br5JJf_Wh0AfPKngWlVP2sOgzYOJ1wFpAwtZqf93Lec/edit?usp=sharingw](https://docs.google.com/spreadsheets/d/1fAK2WFqjE5srreMa0AKlOzR73SUMvsATWSSv1QyTEB4/edit?gid=0#gid=0))
+- [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1fAK2WFqjE5srreMa0AKlOzR73SUMvsATWSSv1QyTEB4/edit?gid=0#gid=0)
 
 ## Guides
 
