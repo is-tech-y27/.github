@@ -24,18 +24,18 @@
 т.е. для конечного пользователя контракт взаимодействия с вашим сервисом не должен изменится.
 
 Общение между микросервисами происходит через брокера сообщений RabbitMQ / Kafka (на выбор студента).  
-В качестве шаблона для общения рекомендуется использование платформозависимых реализаций KafkaTemplate либо RabbitTemplate соотвественно.
+В качестве шаблона для общения рекомендуется использование платформозависимых реализаций KafkaTemplate либо RabbitTemplate соотвественно.  
  
 # Tests
 
-При сдаче лабораторной нужно будет показать работоспособность ваших endpoint’ов путем отправки настоящих HTTP запросов.  
-Убедительная просьба подготовить их зараннее (Например сохранить коллекцию запросов в Postman).
+При сдаче лабораторной нужно будет показать работоспособность ваших endpoint’ов путем отправки настоящих HTTP запросов.   
+Убедительная просьба подготовить их зараннее (Например сохранить коллекцию запросов в Postman).  
 
 Для удобства демонстрации работоспособности рекомендуется использование GUI для администирования вашего брокера сообщений (Kafka UI или RMQ Admin соотвественно).
 
 # Ссылки
-https://habr.com/ru/companies/slurm/articles/772818/
-https://spring.io/guides/gs/messaging-jms
-https://spring.io/projects/spring-amqp/#overview
-https://www.baeldung.com/spring-kafka
-https://www.baeldung.com/spring-amqp
+https://habr.com/ru/companies/slurm/articles/772818/  
+https://spring.io/guides/gs/messaging-jms  
+https://spring.io/projects/spring-amqp/#overview  
+https://www.baeldung.com/spring-kafka  
+https://www.baeldung.com/spring-amqp  
